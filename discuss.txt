@@ -1,0 +1,5 @@
+equvalent to terra data DSN for mongoDB
+
+visual studio need to be installed
+
+slides for jenkins solution for secure mongo
